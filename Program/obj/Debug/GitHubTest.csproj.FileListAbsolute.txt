@@ -1,0 +1,8 @@
+w:\GitHubTestIP\GitHubTest\bin\Debug\GitHubTest.exe.config
+w:\GitHubTestIP\GitHubTest\bin\Debug\GitHubTest.exe
+w:\GitHubTestIP\GitHubTest\bin\Debug\GitHubTest.pdb
+w:\GitHubTestIP\GitHubTest\obj\Debug\GitHubTest.csproj.AssemblyReference.cache
+w:\GitHubTestIP\GitHubTest\obj\Debug\GitHubTest.csproj.SuggestedBindingRedirects.cache
+w:\GitHubTestIP\GitHubTest\obj\Debug\GitHubTest.csproj.CoreCompileInputs.cache
+w:\GitHubTestIP\GitHubTest\obj\Debug\GitHubTest.exe
+w:\GitHubTestIP\GitHubTest\obj\Debug\GitHubTest.pdb
