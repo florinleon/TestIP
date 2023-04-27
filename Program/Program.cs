@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace GitHubTest
 {
@@ -8,6 +8,8 @@ namespace GitHubTest
         {
             Console.WriteLine(MyMath.Add(1, 2));
             Console.WriteLine(MyMath.Sqrt(2));
+            Console.WriteLine(MyMath.Sin(0.5));
+            Console.WriteLine(MyMath.Cos(0.2));
         }
     }
 
@@ -34,4 +36,3 @@ namespace GitHubTest
         }
     }
 }
-
