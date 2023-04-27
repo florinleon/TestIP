@@ -22,5 +22,10 @@ namespace GitHubTest
         {
             return Math.Sqrt(a);
         }
+		
+        public static double Sin(double a)
+        {
+            return Math.Sin(a);
+        }		
     }
 }
