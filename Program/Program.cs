@@ -27,5 +27,11 @@ namespace GitHubTest
         {
             return Math.Cos(a);
         }
+
+        public static double Sin(double a)
+        {
+            return Math.Sin(a);
+        }
     }
 }
+
