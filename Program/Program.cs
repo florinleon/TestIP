@@ -22,5 +22,10 @@ namespace GitHubTest
         {
             return Math.Sqrt(a);
         }
+
+        public static double Cos(double a)
+        {
+            return Math.Cos(a);
+        }
     }
 }
