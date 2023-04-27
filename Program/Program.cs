@@ -34,5 +34,7 @@ namespace GitHubTest
         {
             return Math.Sin(a);
         }
+
+        // alta metoda dupa
     }
 }
