@@ -15,6 +15,7 @@ namespace GitHubTest
 
     public class MyMath
     {
+        // alta metoda inainte
         public static double Add(double a, double b)
         {
             return a + b;
