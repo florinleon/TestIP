@@ -6,20 +6,23 @@ namespace GitHubTest
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine(MyMath.Add(1, 2));
-            Console.WriteLine(MyMath.Sqrt(2));
-            Console.WriteLine(MyMath.Sin(0.5));
-            Console.WriteLine(MyMath.Cos(0.2));
+            Console.WriteLine(MyMathSimple.Add(1, 2));
+            Console.WriteLine(MyMathAdvanced.Sqrt(2));
+            Console.WriteLine(MyMathAdvanced.Sin(0.5));
+            Console.WriteLine(MyMathAdvanced.Cos(0.2));
         }
     }
 
-    public class MyMath
+    public class MyMathSimple
     {
         public static double Add(double a, double b)
         {
             return a + b;
         }
+    }
 
+    public class MyMathAdvanced
+    {
         public static double Sqrt(double a)
         {
             return Math.Sqrt(a);
